@@ -1,8 +1,8 @@
 
-<h2>Libreria Onboarding<h2>
+<h2>Libreria Onboarding</h2>
 
 <h3>Instalación<h3> <br>
-<p>Agréguelo a su raíz build.gradle al final de los repositorios:<p>
+<p>Agréguelo a su raíz build.gradle al final de los repositorios:</p>
 	<br>
 	allprojects {
 		repositories {
