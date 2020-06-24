@@ -20,8 +20,8 @@ dependencies {
 	}
   
   
-  <br>
-  <p>Dentro el main en el nuevo proyecto</p><br>
+
+Dentro el main en el nuevo proyecto
   
   public class MainActivity extends AppCompatActivity {
     private ViewPager viewPagerContainer;
