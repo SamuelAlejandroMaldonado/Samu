@@ -14,6 +14,7 @@ Agréguelo a su raíz build.gradle al final de los repositorios:
 
 
 Agregar la dependencia:
+<br>
 dependencies {
 	        implementation 'com.github.SamuelAlejandroMaldonado:Samu:1'
 	}
