@@ -12,7 +12,7 @@ Agréguelo a su raíz build.gradle al final de los repositorios:
 	}
 
 
-
+<br>
 Agregar la dependencia:
 <br>
 dependencies {
@@ -20,7 +20,7 @@ dependencies {
 	}
   
   
-  
+  <br>
   Dentro el main en el nuevo proyecto
   public class MainActivity extends AppCompatActivity {
     private ViewPager viewPagerContainer;
