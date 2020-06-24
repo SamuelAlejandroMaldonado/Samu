@@ -9,7 +9,7 @@ Add it in your root build.gradle at the end of repositories:
 
 Add the dependency
 dependencies {
-	        implementation 'com.github.SamuelAlejandroMaldonado:Samu:Tag'
+	        implementation 'com.github.SamuelAlejandroMaldonado:Samu:1'
 	}
   
   
