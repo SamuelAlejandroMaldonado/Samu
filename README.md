@@ -8,7 +8,8 @@ Agréguelo a su raíz build.gradle al final de los repositorios:
 	}
 
 
-Add the dependency
+
+Agregar la dependencia:
 dependencies {
 	        implementation 'com.github.SamuelAlejandroMaldonado:Samu:1'
 	}
