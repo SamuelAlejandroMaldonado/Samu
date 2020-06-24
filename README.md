@@ -13,7 +13,7 @@
 
 
 <br>
-Agregar la dependencia:
+<p>Agregar la dependencia:</p>
 <br>
 dependencies {
 	        implementation 'com.github.SamuelAlejandroMaldonado:Samu:1'
@@ -21,7 +21,7 @@ dependencies {
   
   
   <br>
-  Dentro el main en el nuevo proyecto
+  <p>Dentro el main en el nuevo proyecto</p>
   public class MainActivity extends AppCompatActivity {
     private ViewPager viewPagerContainer;
 
@@ -46,7 +46,7 @@ dependencies {
 
 }
 
-Dentro del archivo xml del main activity
+<p>Dentro del archivo xml del main activity</p>
 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
