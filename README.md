@@ -1,4 +1,5 @@
-Add it in your root build.gradle at the end of repositories:
+
+Agréguelo a su raíz build.gradle al final de los repositorios:
 	allprojects {
 		repositories {
 			...
