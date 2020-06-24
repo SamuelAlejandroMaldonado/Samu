@@ -21,7 +21,7 @@ dependencies {
   
   
 
-Dentro el main en el nuevo proyecto
+Dentro el main en el nuevo proyecto copiar el presente código:
   
   public class MainActivity extends AppCompatActivity {
     private ViewPager viewPagerContainer;
@@ -47,7 +47,7 @@ Dentro el main en el nuevo proyecto
 
 }
 
-<p>Dentro del archivo xml del main activity</p>
+<p>Dentro del archivo xml del main activity copiar el presente código:</p>
 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
