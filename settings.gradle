@@ -1,0 +1,3 @@
+rootProject.name='Samu'
+include ':app'
+include ':mylibraryon'
